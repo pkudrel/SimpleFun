@@ -1,0 +1,29 @@
+{
+  "ProductName": "AzureFun",
+  "CompanyName": "DenebLab",
+  "Copyright": "Copyright 2016 DenebLab. All rights reserved.",
+  "PsGitVersion": {
+    "Strategy": "combinateMajorAndBuildSlice3",
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 0,
+    "Special": ""
+  },
+  "PublishRepoSubDir": ".PublishRepositories\\AzureFun",
+  "BuildProjectDirPath": "\\src\\build",
+  "SlnFilePath": "\\src\\SimpleFun.sln",
+  "Projects": [
+    {
+      "Name": "SimpleFun.Core",
+      "Path": "\\src\\SimpleFun.Core\\SimpleFun.Core.csproj",
+      "ProjectName": "SimpleFun.Core",
+      "OutputPathDirSufix": "SimpleFun.Core",
+      "FilesToCopyToDst": [ "" ],
+      "BuildFileName": "",
+      "IsMergeable": true
+    }
+  ],
+  "SrcDir": "\\src",
+  "PackagesDir": "\\src\\packages"
+
+}
